@@ -1,9 +1,34 @@
 # WizGarden
 
+## Introduction
+
 This is an app intended for a tuition centre start up.
 
 It is to enable for easy update of the app for the staff without the intervention of the developer.
 
-The stack used is Postgresql, Express, React, and Node.js.
+## Technologies Used
 
-App consist of a user sign up page, user/admin log in page, user dashboard with abilitiy to edit own user details, admin dashboard with ability to edit users details plus lessons and lessons available.
+### FrontEnd
+
+- React.js
+- Material UI
+- HTML
+- CSS
+
+### BackEnd
+
+- Express
+- Postgresql
+
+## Functionalities
+
+### Parent (User)
+
+- Sign up for an account
+- Update own details
+- View lesson schedule
+
+### Admin Staff (Admin)
+
+- Manage Users' accounts (Read, Update, Delete)
+- View lesson schedule
